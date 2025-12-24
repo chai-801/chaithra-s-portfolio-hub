@@ -78,7 +78,7 @@ const HeroSection = () => {
             className="flex items-center justify-center gap-4"
           >
             <a
-              href="https://linkedin.com/in/chaithra-r"
+              href="https://www.linkedin.com/in/chaithra-r-813a02257"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-card shadow-card hover:shadow-hover transition-all duration-300 hover:-translate-y-1 text-muted-foreground hover:text-primary"
