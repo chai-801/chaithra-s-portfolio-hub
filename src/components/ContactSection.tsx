@@ -46,7 +46,7 @@ const ContactSection = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/chaithra-r",
+      href: "https://www.linkedin.com/in/chaithra-r-813a02257",
     },
     {
       icon: Github,
